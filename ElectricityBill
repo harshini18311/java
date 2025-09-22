@@ -1,4 +1,4 @@
-```java
+```javac
 import java.util.*;
 public class ElectricBill {
     public static void main(String[] args) {
